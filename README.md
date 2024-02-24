@@ -14,3 +14,13 @@ movie titles and their average ratings.
 # Temperature Converter:
 A program that converts temperatures between Celsius and Fahrenheit using a dictionary 
 to store conversion factors.
+# Phonebook Organizer:
+A program that stores names and phone numbers in a dictionary. Offer options to 
+add, search, and update contacts.
+# Song Organizer:
+A program that stores song titles, artists, and genres in a dictionary. Include functions to 
+sort by different criteria (title, artist, genre) and search for specific songs.
+# Password Guesser:
+A  simple program that generates random passwords from a set of characters 
+(lowercase, uppercase, numbers, symbols). The password length and character limitations can 
+be stored in a dictionary
